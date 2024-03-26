@@ -4,3 +4,4 @@
 3.[lab_03](https://github.com/2203A51416/AIML_BATCH-10/blob/main/Lab03_AIML.ipynb)
 4.[LAB_04](https://github.com/2203A51416/AIML_BATCH-10/blob/main/LAB-04.ipynb)
 5.[LAB_06](https://github.com/2203A51416/AIML_BATCH-10/blob/main/LAB-06.ipynb)
+6.[LAB_07](https://github.com/2203A51416/AIML_BATCH-10/blob/main/Lab_07.ipynb)
